@@ -8,7 +8,4 @@ class TestClass:
 
 object1 = TestClass()
 object1.newmethod()
-
-
-
-
+object2.newmethod()
